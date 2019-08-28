@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-gecko/Daniel-Laura-NPM/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-gecko/Daniel-Laura-NPM#readme"
+  "homepage": "https://github.com/thinkful-ei-gecko/Daniel-Laura-NPM#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
